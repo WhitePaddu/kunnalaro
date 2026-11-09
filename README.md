@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @kunnalaro
-- 👀 I’m interested in programmming
-- 🌱 I’m currently learning Css
-- 💞️ I’m looking to collaborate on somebody heart
-- 📫 How to reach me find out
-- 😄 Pronouns: paddu
-- ⚡ Fun fact: i am 
+9/11
 
 <!---
 kunnalaro/kunnalaro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
